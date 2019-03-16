@@ -1,2 +1,1 @@
 worker bot.js
-pause
