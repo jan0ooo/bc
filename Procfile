@@ -1,1 +1,2 @@
-
+worker bot.js
+pause
